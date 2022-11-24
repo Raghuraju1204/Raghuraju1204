@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghuraju1204
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning Frontend and Backend Part in Web Development.
+- 🌱 I’m currently learning Frontend in Web Development.
 - 💞️ I’m looking to collaborate on Website building and Creating Web Application.
 - 📫 How to reach me ...
  RaghavendraRaju1998@gmail.com
